@@ -1,0 +1,17 @@
+scott:
+  name: Scott
+  title: Scott's Title
+  url: https://github.com/plunkettscott
+  image_url: https://github.com/plunkettscott.png
+
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
